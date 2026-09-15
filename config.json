@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sqlite-databases",
+      "title": "SQLite Databases with Python",
+      "description": "Learn how to connect Python to SQLite and practice CRUD operations with real data storage",
+      "path": "assignments/sqlite-databases",
+      "dueDate": "2026-09-22",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
